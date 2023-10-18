@@ -1,0 +1,8 @@
+html{
+    background: linear-gradient(30deg, aqua, rgb(255, 162, 0));
+    font-family: "Exo 2", sans-serif;
+}
+.img{
+    display:flex;
+    justify-content: center;
+}
